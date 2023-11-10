@@ -1,7 +1,6 @@
 node_modules
 debug
 .vscode
-src/deps
 src/render/deps
 dev_arm/
 dev_x86/
